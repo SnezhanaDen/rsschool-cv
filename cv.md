@@ -5,7 +5,7 @@ Minsk, Remote, Full time
 
 ## Head of Department of the Integrated risk management
 ОАО «Белорусский народный банк» Bank of Georgia Group
-март 2021 – текущий момент
+March 2021 – current time
 
 Responsibility for improving the bank’s operational risk management process (including cyberrisks, IT risks, third-party risks) and reducing operational losses through achievements in the field of risk management, enhancing the operational risk culture, incident analysts, software development, implementation of risk self-assessment.
 Implementation of Internal Capital Adequacy Assessment (IAAP).
